@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.oxoempire.wazapear"
+    namespace = "org.oxoempire.wazapear"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.oxoempire.wazapear"
+        applicationId = "org.oxoempire.wazapear"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
